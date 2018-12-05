@@ -1,5 +1,5 @@
 package example_module
 
 func Hello()  {
-	println("hello world")
+	println("hello world2")
 }
